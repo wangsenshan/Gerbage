@@ -1,1 +1,1 @@
-void class
+public void class
