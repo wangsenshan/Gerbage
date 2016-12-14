@@ -1,1 +1,1 @@
-public void class
+public static void class
